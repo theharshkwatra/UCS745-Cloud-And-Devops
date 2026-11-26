@@ -20,7 +20,7 @@ def button_click(value):
 
 
 root = tk.Tk()
-root.title("Calculator")
+root.title("Calculator - Version A")
 root.geometry("350x450")
 root.resizable(False, False)
 
